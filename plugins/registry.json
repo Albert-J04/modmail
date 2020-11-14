@@ -8,15 +8,6 @@
         "icon_url": "https://i.imgur.com/951szZ3.jpg",
         "thumbnail_url": "https://i.imgur.com/951szZ3.jpg"
     },
-    "music": {
-        "repository": "lorenzo132/modmail-plugins",
-        "branch": "master",
-        "description": "Play your favourite music on your bot! Note: Only works on VPS follow this guide: https://gist.github.com/lorenzo132/5ef328e5dfcfaec19cb81dc7a63eaffa",
-        "bot_version": "2.20.1",
-        "title": "Music",
-        "icon_url": "https://i.imgur.com/R2olclk.png",
-        "thumbnail_url": "https://i.imgur.com/xuoQjPu.gif"
-    },
     "dragory-migrate": {
         "repository": "kyb3r/modmail-plugins",
         "branch": "master",
@@ -143,13 +134,13 @@
         "thumbnail_url": "http://www.pngmart.com/files/7/Statistics-PNG-Clipart.png"
     },
     "moderation": {
-        "repository": "xPolar/modmail-plugins",
-        "branch": "master",
+        "repository": "Vincysuper07/modmail-plugins",
+        "branch": "main",
         "description": "Moderate your server with Modmail, bring the Mod to Modmail!",
-        "bot_version": "3.0.3",
+        "bot_version": "3.6.2",
         "title": "Moderate your server",
-        "icon_url": "https://cdn.discordapp.com/attachments/539943767562780704/601485194196680704/wGFmzZq.png",
-        "thumbnail_url": "https://cdn.discordapp.com/attachments/539943767562780704/601485194196680704/wGFmzZq.png"
+        "icon_url": "https://cdn.discordapp.com/attachments/759829573654544454/773535811143598110/ad2e4d6e7b90ca6005a5038e22b099cc.png",
+        "thumbnail_url": "https://cdn.discordapp.com/attachments/759829573654544454/773535811143598110/ad2e4d6e7b90ca6005a5038e22b099cc.png"
     },
     "serverstats": {
         "repository": "dazvise/modmail-plugins",
@@ -204,5 +195,14 @@
         "title": "Translate",
         "icon_url": "https://i.imgur.com/yeHFKgl.png",
         "thumbnail_url": "https://i.imgur.com/yeHFKgl.png"
+    },
+    "countdowns": {
+        "repository": "fourjr/modmail-plugins",
+        "branch": "master",
+        "description": "Setup a countdown voice channel in your server!",
+        "bot_version": "3.6.2",
+        "title": "Countdowns",
+        "icon_url": "https://cdn.discordapp.com/avatars/180314310298304512/7552e0089004079304cc9912d13ac81d.png",
+        "thumbnail_url": "https://cdn.discordapp.com/avatars/180314310298304512/7552e0089004079304cc9912d13ac81d.png"
     }
 }
